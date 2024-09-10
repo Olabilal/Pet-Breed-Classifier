@@ -32,7 +32,7 @@ What next?
 	•	Growth Potential: Integrate with a mobile app for real-time pet identification and add support for more breeds.
 	•	Skills Needed: Experience in deep learning, mobile app development, and image processing.
 
-Acknowledgments
+Acknowledgment
 
 	•	Sources of Inspiration: The work of other AI researchers in image classification.
 	•	Licensing: Dataset provided under a Creative Commons license.
